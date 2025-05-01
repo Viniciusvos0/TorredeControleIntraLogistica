@@ -1,3 +1,4 @@
+![ChatGPT Image 1 de mai  de 2025, 17_14_39](https://github.com/user-attachments/assets/dac51c43-c2b4-416f-b123-13e236352188)
 # TorredeControleIntraLogistica
 
 Neste projeto desenvolvi um ecossistema de BI totalmente automatizado, desde a extração dos dados até o BI.
